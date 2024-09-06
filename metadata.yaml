@@ -1,0 +1,36 @@
+_repo: Thrasymachus-b-or-The-future-of-morals_74315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joad, C. E. M. (Cyril Edwin Mitchinson)
+    alias: Joad, Cyril Edwin Mitchinson
+    birthdate: 1891
+    deathdate: 1953
+    gutenberg_agent_id: '57437'
+    url: http://www.gutenberg.org/2009/agents/57437
+    wikipedia: https://en.wikipedia.org/wiki/C._E._M._Joad
+description: ''
+gutenberg_issued: '2024-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74315'
+  lccn: '26001607'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x002150534
+pgterms:marc905: 20240413102720joad
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- GITenberg
+title: 'Thrasymachus : $b or, The future of morals'
+url: http://www.gutenberg.org/ebooks/74315
