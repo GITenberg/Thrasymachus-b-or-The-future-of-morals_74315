@@ -1,5 +1,8 @@
 _repo: Thrasymachus-b-or-The-future-of-morals_74315
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74315-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Joad, C. E. M. (Cyril Edwin Mitchinson)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57437
     wikipedia: https://en.wikipedia.org/wiki/C._E._M._Joad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74315#Thrasymachus-b-or-The-future-of-morals
 gutenberg_issued: '2024-08-25'
 gutenberg_type: Text
 identifiers:
